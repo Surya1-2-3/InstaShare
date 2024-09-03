@@ -7,9 +7,7 @@ import NotFound from './NotFoundPage.js'
 import HomePage from './HomePage.js'
 import FetchApi from './fetch-api.js'
 import GetData from './formData.js'
-const root=ReactDOM.createRoot(document.getElementById("root"));
-
-
+const root=ReactDOM.createRoot(document.getElementById("root"))
 
 root.render(<div>
         <BrowserRouter>
